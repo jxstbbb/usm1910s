@@ -1,2 +1,4 @@
 # United States Military 1910s
-desc soon
+This is a static-site used to host legislation relating to the United States Military 1910s Roblox group.
+
+Currently maintained by Clearlybecs.
