@@ -1,1 +1,6 @@
-
+usmdocs==1.1
+usmdocs-awesome-pages-plugin==2.2.1
+usmdocs-material==5.1.5
+usmdocs-material-extensions==1.0b2
+usmdocs-extensions==7.1
+usmdocs-git-revision-date-localized-plugin==0.5.2
